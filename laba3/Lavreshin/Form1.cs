@@ -16,5 +16,6 @@ namespace laba3.Lavreshin
         {
             InitializeComponent();
         }
+
     }
 }
